@@ -9,8 +9,9 @@ precisely and graded by the evidence behind it. Start with [`Fugue/README.md`](F
 |---|---|
 | [hsln-archive](https://github.com/rmorleysmith/hsln-archive) | The June 2026 files, unchanged, with OpenTimestamps proofs anchored in Bitcoin and the May 2026 git history. DOI [10.5281/zenodo.23690426](https://doi.org/10.5281/zenodo.23690426). |
 | [fugue](https://github.com/rmorleysmith/fugue) (this one) | The audit: graded evidence ledger, thematic threads, reproductions. |
-| [fugue-formal](https://github.com/rmorleysmith/fugue-formal) | The Lean 4 / Mathlib formalisation of the parts that hold: 103 audited theorems, no `sorry`. |
-| [fugue-formal-pnt](https://github.com/rmorleysmith/fugue-formal-pnt) | Ingham's theorem: zero-free regions of ζ and the error term in ψ(x). |
+| [fugue-exploration](https://github.com/rmorleysmith/fugue-exploration) | The June scripts, tidied: every figure regenerated, every script headed by what it computes, proves and does not claim. |
+| [fugue-formal](https://github.com/rmorleysmith/fugue-formal) | The Lean 4 / Mathlib formalisation of the parts that hold: 103 audited theorems, no `sorry`. DOI [10.5281/zenodo.23695018](https://doi.org/10.5281/zenodo.23695018). |
+| [fugue-formal-pnt](https://github.com/rmorleysmith/fugue-formal-pnt) | Ingham's theorem: zero-free regions of ζ and the error term in ψ(x). DOI [10.5281/zenodo.23695021](https://doi.org/10.5281/zenodo.23695021). |
 | [palomar-ingham](https://github.com/rmorleysmith/palomar-ingham) | Two entries prepared for the Palomar registry of Lean-verified results. |
 
 ## How AI was used
