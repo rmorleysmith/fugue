@@ -1,0 +1,10 @@
+# Environment for verify.py — created with:
+#   uv venv --python 3.14 04-verify/.venv
+#   uv pip install --python 04-verify/.venv/bin/python -r 04-verify/requirements.txt
+numpy>=2.5,<3
+scipy>=1.18,<2
+matplotlib>=3.11,<4
+mpmath>=1.4,<2
+# jax is only needed for the checks that re-use the corpus' own jitted rollouts
+# (dyn.coupling.*, bsd.L1.smoothed.sum via coupling_sweep/bsd). CPU build is fine.
+jax>=0.12,<0.13

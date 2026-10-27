@@ -1,0 +1,282 @@
+⚠ [3335/3702] Replayed Fugue.HSLN
+warning: Fugue/HSLN.lean: imports `Mathlib.Analysis.Complex.UpperHalfPlane.Basic` from package `mathlib`, which is designed for use with the module system; consider adding `module` to the start of this file
+warning: Fugue/HSLN.lean: imports `Mathlib.Analysis.Complex.UpperHalfPlane.Manifold` from package `mathlib`, which is designed for use with the module system; consider adding `module` to the start of this file
+warning: Fugue/HSLN.lean: imports `Mathlib.LinearAlgebra.SymplecticGroup` from package `mathlib`, which is designed for use with the module system; consider adding `module` to the start of this file
+warning: Fugue/HSLN.lean: imports `Mathlib.LinearAlgebra.Matrix.PosDef` from package `mathlib`, which is designed for use with the module system; consider adding `module` to the start of this file
+warning: Fugue/HSLN.lean: imports `Mathlib.LinearAlgebra.Matrix.Symmetric` from package `mathlib`, which is designed for use with the module system; consider adding `module` to the start of this file
+warning: Fugue/HSLN.lean: imports `Mathlib.NumberTheory.ModularForms.Basic` from package `mathlib`, which is designed for use with the module system; consider adding `module` to the start of this file
+warning: Fugue/HSLN.lean: imports `Mathlib.NumberTheory.ModularForms.CongruenceSubgroups` from package `mathlib`, which is designed for use with the module system; consider adding `module` to the start of this file
+warning: Fugue/HSLN.lean: imports `Mathlib.NumberTheory.ModularForms.QExpansion` from package `mathlib`, which is designed for use with the module system; consider adding `module` to the start of this file
+warning: Fugue/HSLN.lean: imports `Mathlib.NumberTheory.ModularForms.SlashInvariantForms` from package `mathlib`, which is designed for use with the module system; consider adding `module` to the start of this file
+warning: Fugue/HSLN.lean: imports `Mathlib.Geometry.Manifold.MFDeriv.Basic` from package `mathlib`, which is designed for use with the module system; consider adding `module` to the start of this file
+warning: Fugue/HSLN.lean: imports `Mathlib.Geometry.Manifold.IntegralCurve.Basic` from package `mathlib`, which is designed for use with the module system; consider adding `module` to the start of this file
+warning: Fugue/HSLN.lean: imports `Mathlib.RingTheory.PowerSeries.Basic` from package `mathlib`, which is designed for use with the module system; consider adding `module` to the start of this file
+warning: Fugue/HSLN.lean: imports `Mathlib.NumberTheory.Divisors` from package `mathlib`, which is designed for use with the module system; consider adding `module` to the start of this file
+warning: Fugue/HSLN.lean:69:4: declaration uses `sorry`
+warning: Fugue/HSLN.lean:89:9: declaration uses `sorry`
+warning: Fugue/HSLN.lean:103:4: declaration uses `sorry`
+warning: Fugue/HSLN.lean:112:0: declaration uses `sorry`
+warning: Fugue/HSLN.lean:119:0: declaration uses `sorry`
+warning: Fugue/HSLN.lean:122:4: declaration uses `sorry`
+warning: Fugue/HSLN.lean:131:4: declaration uses `sorry`
+warning: Fugue/HSLN.lean:138:0: declaration uses `sorry`
+warning: Fugue/HSLN.lean:138:0: declaration uses `sorry`
+warning: Fugue/HSLN.lean:138:0: declaration uses `sorry`
+warning: Fugue/HSLN.lean:138:0: declaration uses `sorry`
+warning: Fugue/HSLN.lean:138:0: declaration uses `sorry`
+warning: Fugue/HSLN.lean:138:0: declaration uses `sorry`
+warning: Fugue/HSLN.lean:138:0: declaration uses `sorry`
+warning: Fugue/HSLN.lean:138:0: declaration uses `sorry`
+warning: Fugue/HSLN.lean:138:0: declaration uses `sorry`
+warning: Fugue/HSLN.lean:138:0: declaration uses `sorry`
+warning: Fugue/HSLN.lean:155:4: declaration uses `sorry`
+warning: Fugue/HSLN.lean:178:4: declaration uses `sorry`
+warning: Fugue/HSLN.lean:189:4: declaration uses `sorry`
+warning: Fugue/HSLN.lean:196:8: declaration uses `sorry`
+warning: Fugue/HSLN.lean:203:9: declaration uses `sorry`
+warning: Fugue/HSLN.lean:207:9: declaration uses `sorry`
+warning: Fugue/HSLN.lean:223:4: declaration uses `sorry`
+warning: Fugue/HSLN.lean:228:4: declaration uses `sorry`
+warning: Fugue/HSLN.lean:238:8: declaration uses `sorry`
+warning: Fugue/HSLN.lean:291:8: declaration uses `sorry`
+warning: Fugue/HSLN.lean:301:0: Definition `siegelMetric` is a proposition; use `theorem` instead of `def`
+
+Note: This linter can be disabled with `set_option linter.defProp false`
+warning: Fugue/HSLN.lean:306:4: declaration uses `sorry`
+warning: Fugue/HSLN.lean:336:4: declaration uses `sorry`
+warning: Fugue/HSLN.lean:339:8: declaration uses `sorry`
+warning: Fugue/HSLN.lean:343:8: declaration uses `sorry`
+warning: Fugue/HSLN.lean:356:4: declaration uses `sorry`
+warning: Fugue/HSLN.lean:365:8: declaration uses `sorry`
+warning: Fugue/HSLN.lean:382:8: declaration uses `sorry`
+warning: Fugue/HSLN.lean:528:4: declaration uses `sorry`
+warning: Fugue/HSLN.lean:534:8: declaration uses `sorry`
+⚠ [9022/9051] Replayed Fugue.HSLNBSD
+warning: Fugue/HSLNBSD.lean: imports `Mathlib` from package `mathlib`, which is designed for use with the module system; consider adding `module` to the start of this file
+warning: Fugue/HSLNBSD.lean:531:8: declaration uses `sorry`
+warning: Fugue/HSLNBSD.lean:544:8: declaration uses `sorry`
+warning: Fugue/HSLNBSD.lean:555:8: declaration uses `sorry`
+warning: Fugue/HSLNBSD.lean:571:8: declaration uses `sorry`
+warning: Fugue/HSLNBSD.lean:584:8: declaration uses `sorry`
+⚠ [9023/9051] Replayed Fugue.HSLNComplexity
+warning: Fugue/HSLNComplexity.lean: imports `Mathlib` from package `mathlib`, which is designed for use with the module system; consider adding `module` to the start of this file
+⚠ [9024/9051] Replayed Fugue.HSLNDivisorEuler
+warning: Fugue/HSLNDivisorEuler.lean: imports `Mathlib` from package `mathlib`, which is designed for use with the module system; consider adding `module` to the start of this file
+⚠ [9025/9051] Replayed Fugue.HSLNFrontier
+warning: Fugue/HSLNFrontier.lean: imports `Mathlib` from package `mathlib`, which is designed for use with the module system; consider adding `module` to the start of this file
+⚠ [9026/9051] Replayed Fugue.HSLNHecke
+warning: Fugue/HSLNHecke.lean: imports `Mathlib` from package `mathlib`, which is designed for use with the module system; consider adding `module` to the start of this file
+⚠ [9027/9051] Replayed Fugue.HSLNHilbertPolya
+warning: Fugue/HSLNHilbertPolya.lean: imports `Mathlib` from package `mathlib`, which is designed for use with the module system; consider adding `module` to the start of this file
+warning: Fugue/HSLNHilbertPolya.lean:160:19: `if_false` has been deprecated: Use `ite_false` instead
+
+Hint: Replace the deprecated name:
+  i̵f̵_̵f̵a̵l̵s̵e̵i̲t̲e̲_̲f̲a̲l̲s̲e̲
+⚠ [9028/9051] Replayed Fugue.HSLNHodge
+warning: Fugue/HSLNHodge.lean: imports `Mathlib` from package `mathlib`, which is designed for use with the module system; consider adding `module` to the start of this file
+warning: Fugue/HSLNHodge.lean:169:0: automatically included section variable(s) unused in theorem `HSLNHodge.integralHodgeModTorsion_iff_of_torsionFree`:
+  [Algebra ℚ A]
+consider restructuring your `variable` declarations so that the variables are not in scope or explicitly omit them:
+  omit [Algebra ℚ A] in theorem ...
+
+Note: This linter can be disabled with `set_option linter.unusedSectionVars false`
+warning: Fugue/HSLNHodge.lean:178:0: automatically included section variable(s) unused in theorem `HSLNHodge.integralHodgeModTorsion_of_integralHodge`:
+  [Algebra ℚ A]
+consider restructuring your `variable` declarations so that the variables are not in scope or explicitly omit them:
+  omit [Algebra ℚ A] in theorem ...
+
+Note: This linter can be disabled with `set_option linter.unusedSectionVars false`
+⚠ [9029/9051] Replayed Fugue.HSLNLanglands
+warning: Fugue/HSLNLanglands.lean: imports `Mathlib` from package `mathlib`, which is designed for use with the module system; consider adding `module` to the start of this file
+⚠ [9030/9051] Replayed Fugue.HSLNLFunctions
+warning: Fugue/HSLNLFunctions.lean: imports `Mathlib` from package `mathlib`, which is designed for use with the module system; consider adding `module` to the start of this file
+⚠ [9031/9051] Replayed Fugue.HSLNQuantumState
+warning: Fugue/HSLNQuantumState.lean: imports `Mathlib` from package `mathlib`, which is designed for use with the module system; consider adding `module` to the start of this file
+warning: Fugue/HSLNQuantumState.lean:139:19: `if_false` has been deprecated: Use `ite_false` instead
+
+Hint: Replace the deprecated name:
+  i̵f̵_̵f̵a̵l̵s̵e̵i̲t̲e̲_̲f̲a̲l̲s̲e̲
+⚠ [9032/9051] Replayed Fugue.HSLNRH
+warning: Fugue/HSLNRH.lean: imports `Mathlib` from package `mathlib`, which is designed for use with the module system; consider adding `module` to the start of this file
+warning: Fugue/HSLNRH.lean:83:8: declaration uses `sorry`
+warning: Fugue/HSLNRH.lean:213:8: declaration uses `sorry`
+warning: Fugue/HSLNRH.lean:218:8: declaration uses `sorry`
+warning: Fugue/HSLNRH.lean:259:8: declaration uses `sorry`
+warning: Fugue/HSLNRH.lean:353:8: declaration uses `sorry`
+warning: Fugue/HSLNRH.lean:362:8: declaration uses `sorry`
+warning: Fugue/HSLNRH.lean:367:8: declaration uses `sorry`
+⚠ [9033/9051] Replayed Fugue.HSLNSpectral
+warning: Fugue/HSLNSpectral.lean: imports `Mathlib` from package `mathlib`, which is designed for use with the module system; consider adding `module` to the start of this file
+warning: Fugue/HSLNSpectral.lean:257:19: `if_false` has been deprecated: Use `ite_false` instead
+
+Hint: Replace the deprecated name:
+  i̵f̵_̵f̵a̵l̵s̵e̵i̲t̲e̲_̲f̲a̲l̲s̲e̲
+⚠ [9034/9051] Replayed Fugue.HSLNStructureNotSearch
+warning: Fugue/HSLNStructureNotSearch.lean: imports `Mathlib` from package `mathlib`, which is designed for use with the module system; consider adding `module` to the start of this file
+⚠ [9035/9051] Replayed Fugue.HSLNTraceFormula
+warning: Fugue/HSLNTraceFormula.lean: imports `Mathlib` from package `mathlib`, which is designed for use with the module system; consider adding `module` to the start of this file
+warning: Fugue/HSLNTraceFormula.lean:170:66: `if_neg` has been deprecated: Use `ite_eq_right` instead
+
+Hint: Replace the deprecated name:
+  i̵f̵_̵n̵e̵g̵i̲t̲e̲_̲e̲q̲_̲r̲i̲g̲h̲t̲
+warning: Fugue/HSLNTraceFormula.lean:170:76: `if_neg` has been deprecated: Use `ite_eq_right` instead
+
+Hint: Replace the deprecated name:
+  i̵f̵_̵n̵e̵g̵i̲t̲e̲_̲e̲q̲_̲r̲i̲g̲h̲t̲
+⚠ [9036/9051] Replayed Fugue.HSLNVerify
+warning: Fugue/HSLNVerify.lean: imports `Mathlib` from package `mathlib`, which is designed for use with the module system; consider adding `module` to the start of this file
+⚠ [9037/9051] Replayed Fugue.HSLNWeilPositivity
+warning: Fugue/HSLNWeilPositivity.lean: imports `Mathlib` from package `mathlib`, which is designed for use with the module system; consider adding `module` to the start of this file
+⚠ [9038/9051] Replayed Fugue.HSLNYangMills
+warning: Fugue/HSLNYangMills.lean: imports `Mathlib` from package `mathlib`, which is designed for use with the module system; consider adding `module` to the start of this file
+⚠ [9039/9051] Replayed Fugue.HSLNZeta
+warning: Fugue/HSLNZeta.lean: imports `Mathlib` from package `mathlib`, which is designed for use with the module system; consider adding `module` to the start of this file
+⚠ [9040/9051] Replayed Fugue.SpectralArithmetic
+warning: Fugue/SpectralArithmetic.lean: imports `Mathlib` from package `mathlib`, which is designed for use with the module system; consider adding `module` to the start of this file
+warning: Fugue/SpectralArithmetic.lean:150:19: `if_false` has been deprecated: Use `ite_false` instead
+
+Hint: Replace the deprecated name:
+  i̵f̵_̵f̵a̵l̵s̵e̵i̲t̲e̲_̲f̲a̲l̲s̲e̲
+⚠ [9041/9051] Replayed Fugue.SpectralBosonFermion
+warning: Fugue/SpectralBosonFermion.lean: imports `Mathlib` from package `mathlib`, which is designed for use with the module system; consider adding `module` to the start of this file
+⚠ [9042/9051] Replayed Fugue.SpectralShor
+warning: Fugue/SpectralShor.lean: imports `Mathlib` from package `mathlib`, which is designed for use with the module system; consider adding `module` to the start of this file
+⚠ [9043/9051] Replayed Fugue.SpectralTorsion
+warning: Fugue/SpectralTorsion.lean: imports `Mathlib` from package `mathlib`, which is designed for use with the module system; consider adding `module` to the start of this file
+✖ [9044/9051] Building Fugue.HslnCat (2.0s)
+warning: Fugue/HslnCat.lean: imports `Mathlib` from package `mathlib`, which is designed for use with the module system; consider adding `module` to the start of this file
+trace: .> LEAN_PATH=/home/rms/Math/Math-Lean/.lake/packages/Cli/.lake/build/lib/lean:/home/rms/Math/Math-Lean/.lake/packages/batteries/.lake/build/lib/lean:/home/rms/Math/Math-Lean/.lake/packages/Qq/.lake/build/lib/lean:/home/rms/Math/Math-Lean/.lake/packages/aesop/.lake/build/lib/lean:/home/rms/Math/Math-Lean/.lake/packages/proofwidgets/.lake/build/lib/lean:/home/rms/Math/Math-Lean/.lake/packages/importGraph/.lake/build/lib/lean:/home/rms/Math/Math-Lean/.lake/packages/LeanSearchClient/.lake/build/lib/lean:/home/rms/Math/Math-Lean/.lake/packages/plausible/.lake/build/lib/lean:/home/rms/Math/Math-Lean/.lake/packages/mathlib/.lake/build/lib/lean:/home/rms/Math/Fugue/03-formal/workspace/.lake/build/lib/lean /home/rms/.elan/toolchains/leanprover--lean4---v4.35.0-rc4/bin/lean /home/rms/Math/Fugue/03-formal/workspace/Fugue/HslnCat.lean -o /home/rms/Math/Fugue/03-formal/workspace/.lake/build/lib/lean/Fugue/HslnCat.olean -i /home/rms/Math/Fugue/03-formal/workspace/.lake/build/lib/lean/Fugue/HslnCat.ilean -c /home/rms/Math/Fugue/03-formal/workspace/.lake/build/ir/Fugue/HslnCat.c --setup /home/rms/Math/Fugue/03-formal/workspace/.lake/build/ir/Fugue/HslnCat.setup.json --json
+error: Fugue/HslnCat.lean:56:61: Type mismatch
+  mul_one f
+has type
+  f * 1 = f
+but is expected to have type
+  dnaTensor dnaUnit f = f
+error: Fugue/HslnCat.lean:65:21: failed to synthesize instance of type class
+  HMul ℂ ℂ[X] DNA
+
+Hint: Type class instance resolution failures can be inspected with the `set_option trace.Meta.synthInstance true` command.
+✖ [9045/9051] Building Fugue.HSLNAlgebra (3.0s)
+warning: Fugue/HSLNAlgebra.lean: imports `Mathlib` from package `mathlib`, which is designed for use with the module system; consider adding `module` to the start of this file
+trace: .> LEAN_PATH=/home/rms/Math/Math-Lean/.lake/packages/Cli/.lake/build/lib/lean:/home/rms/Math/Math-Lean/.lake/packages/batteries/.lake/build/lib/lean:/home/rms/Math/Math-Lean/.lake/packages/Qq/.lake/build/lib/lean:/home/rms/Math/Math-Lean/.lake/packages/aesop/.lake/build/lib/lean:/home/rms/Math/Math-Lean/.lake/packages/proofwidgets/.lake/build/lib/lean:/home/rms/Math/Math-Lean/.lake/packages/importGraph/.lake/build/lib/lean:/home/rms/Math/Math-Lean/.lake/packages/LeanSearchClient/.lake/build/lib/lean:/home/rms/Math/Math-Lean/.lake/packages/plausible/.lake/build/lib/lean:/home/rms/Math/Math-Lean/.lake/packages/mathlib/.lake/build/lib/lean:/home/rms/Math/Fugue/03-formal/workspace/.lake/build/lib/lean /home/rms/.elan/toolchains/leanprover--lean4---v4.35.0-rc4/bin/lean /home/rms/Math/Fugue/03-formal/workspace/Fugue/HSLNAlgebra.lean -o /home/rms/Math/Fugue/03-formal/workspace/.lake/build/lib/lean/Fugue/HSLNAlgebra.olean -i /home/rms/Math/Fugue/03-formal/workspace/.lake/build/lib/lean/Fugue/HSLNAlgebra.ilean -c /home/rms/Math/Fugue/03-formal/workspace/.lake/build/ir/Fugue/HSLNAlgebra.c --setup /home/rms/Math/Fugue/03-formal/workspace/.lake/build/ir/Fugue/HSLNAlgebra.setup.json --json
+error: Fugue/HSLNAlgebra.lean:77:36: Ambiguous term
+  add_apply
+Possible interpretations:
+  _root_.add_apply : ∀ (f g : ?m.54) (x : ?m.55), (f + g) x = f x + g x
+  
+  ArithmeticFunction.add_apply : (?m.56 + ?m.57) ?m.58 = ?m.56 ?m.58 + ?m.57 ?m.58
+error: Fugue/HSLNAlgebra.lean:78:22: Tactic `rewrite` failed: Did not find an occurrence of the pattern
+  ∑ x ∈ ?m.64, ?m.66 x + ∑ x ∈ ?m.64, ?m.67 x
+in the target expression
+  ∑ i ∈ n.divisorsAntidiagonal, f i.1 * g i.2 * Real.log ↑n = (f.pmul log * g + f * g.pmul log) n
+
+case inr
+f g : ArithmeticFunction ℝ
+n : ℕ
+hn : n > 0
+⊢ ∑ i ∈ n.divisorsAntidiagonal, f i.1 * g i.2 * Real.log ↑n = (f.pmul log * g + f * g.pmul log) n
+✖ [9046/9051] Building Fugue.HSLNBridge (3.1s)
+warning: Fugue/HSLNBridge.lean: imports `Mathlib` from package `mathlib`, which is designed for use with the module system; consider adding `module` to the start of this file
+trace: .> LEAN_PATH=/home/rms/Math/Math-Lean/.lake/packages/Cli/.lake/build/lib/lean:/home/rms/Math/Math-Lean/.lake/packages/batteries/.lake/build/lib/lean:/home/rms/Math/Math-Lean/.lake/packages/Qq/.lake/build/lib/lean:/home/rms/Math/Math-Lean/.lake/packages/aesop/.lake/build/lib/lean:/home/rms/Math/Math-Lean/.lake/packages/proofwidgets/.lake/build/lib/lean:/home/rms/Math/Math-Lean/.lake/packages/importGraph/.lake/build/lib/lean:/home/rms/Math/Math-Lean/.lake/packages/LeanSearchClient/.lake/build/lib/lean:/home/rms/Math/Math-Lean/.lake/packages/plausible/.lake/build/lib/lean:/home/rms/Math/Math-Lean/.lake/packages/mathlib/.lake/build/lib/lean:/home/rms/Math/Fugue/03-formal/workspace/.lake/build/lib/lean /home/rms/.elan/toolchains/leanprover--lean4---v4.35.0-rc4/bin/lean /home/rms/Math/Fugue/03-formal/workspace/Fugue/HSLNBridge.lean -o /home/rms/Math/Fugue/03-formal/workspace/.lake/build/lib/lean/Fugue/HSLNBridge.olean -i /home/rms/Math/Fugue/03-formal/workspace/.lake/build/lib/lean/Fugue/HSLNBridge.ilean -c /home/rms/Math/Fugue/03-formal/workspace/.lake/build/ir/Fugue/HSLNBridge.c --setup /home/rms/Math/Fugue/03-formal/workspace/.lake/build/ir/Fugue/HSLNBridge.setup.json --json
+error: Fugue/HSLNBridge.lean:62:25: Ambiguous term
+  antidiagonal
+Possible interpretations:
+  HasAntidiagonal.antidiagonal : ?m.12 → Finset (?m.12 × ?m.12)
+  
+  Finset.antidiagonal : Set.IsPWO ?m.16 → Set.IsPWO ?m.17 → ?m.12 → Finset (?m.12 × ?m.12)
+error: Fugue/HSLNBridge.lean:61:81: unsolved goals
+R : Type u_1
+inst✝ : Semiring R
+f g : ArithmeticFunction R
+⊢ ∑ p ∈ HasAntidiagonal.antidiagonal 1, f p.1 * g p.2 = 0
+✖ [9047/9051] Building Fugue.HSLNFactor (3.1s)
+warning: Fugue/HSLNFactor.lean: imports `Mathlib` from package `mathlib`, which is designed for use with the module system; consider adding `module` to the start of this file
+trace: .> LEAN_PATH=/home/rms/Math/Math-Lean/.lake/packages/Cli/.lake/build/lib/lean:/home/rms/Math/Math-Lean/.lake/packages/batteries/.lake/build/lib/lean:/home/rms/Math/Math-Lean/.lake/packages/Qq/.lake/build/lib/lean:/home/rms/Math/Math-Lean/.lake/packages/aesop/.lake/build/lib/lean:/home/rms/Math/Math-Lean/.lake/packages/proofwidgets/.lake/build/lib/lean:/home/rms/Math/Math-Lean/.lake/packages/importGraph/.lake/build/lib/lean:/home/rms/Math/Math-Lean/.lake/packages/LeanSearchClient/.lake/build/lib/lean:/home/rms/Math/Math-Lean/.lake/packages/plausible/.lake/build/lib/lean:/home/rms/Math/Math-Lean/.lake/packages/mathlib/.lake/build/lib/lean:/home/rms/Math/Fugue/03-formal/workspace/.lake/build/lib/lean /home/rms/.elan/toolchains/leanprover--lean4---v4.35.0-rc4/bin/lean /home/rms/Math/Fugue/03-formal/workspace/Fugue/HSLNFactor.lean -o /home/rms/Math/Fugue/03-formal/workspace/.lake/build/lib/lean/Fugue/HSLNFactor.olean -i /home/rms/Math/Fugue/03-formal/workspace/.lake/build/lib/lean/Fugue/HSLNFactor.ilean -c /home/rms/Math/Fugue/03-formal/workspace/.lake/build/ir/Fugue/HSLNFactor.c --setup /home/rms/Math/Fugue/03-formal/workspace/.lake/build/ir/Fugue/HSLNFactor.setup.json --json
+error: Fugue/HSLNFactor.lean:56:4: No goals to be solved
+error: Fugue/HSLNFactor.lean:78:4: No goals to be solved
+warning: Fugue/HSLNFactor.lean:86:8: `if_pos` has been deprecated: Use `ite_eq_left` instead
+
+Hint: Replace the deprecated name:
+  i̵f̵_̵p̵o̵s̵i̲t̲e̲_̲e̲q̲_̲l̲e̲f̲t̲
+warning: Fugue/HSLNFactor.lean:88:8: `if_neg` has been deprecated: Use `ite_eq_right` instead
+
+Hint: Replace the deprecated name:
+  i̵f̵_̵n̵e̵g̵i̲t̲e̲_̲e̲q̲_̲r̲i̲g̲h̲t̲
+error: Fugue/HSLNFactor.lean:127:36: Unknown constant `Finset.card_insert_of_not_mem`
+error: Fugue/HSLNFactor.lean:126:37: unsolved goals
+p q : ℕ
+hp : Nat.Prime p
+hq : Nat.Prime q
+hpq : p ≠ q
+⊢ {p, q}.card = 2
+warning: Fugue/HSLNFactor.lean:138:27: This simp argument is unused:
+  or_assoc
+
+Hint: Omit it from the simp argument list.
+  [apply] simp [Finset.mem_insert]
+
+Note: This linter can be disabled with `set_option linter.unusedSimpArgs false`
+✖ [9048/9051] Building Fugue.HSLNSerre (3.1s)
+warning: Fugue/HSLNSerre.lean: imports `Mathlib` from package `mathlib`, which is designed for use with the module system; consider adding `module` to the start of this file
+trace: .> LEAN_PATH=/home/rms/Math/Math-Lean/.lake/packages/Cli/.lake/build/lib/lean:/home/rms/Math/Math-Lean/.lake/packages/batteries/.lake/build/lib/lean:/home/rms/Math/Math-Lean/.lake/packages/Qq/.lake/build/lib/lean:/home/rms/Math/Math-Lean/.lake/packages/aesop/.lake/build/lib/lean:/home/rms/Math/Math-Lean/.lake/packages/proofwidgets/.lake/build/lib/lean:/home/rms/Math/Math-Lean/.lake/packages/importGraph/.lake/build/lib/lean:/home/rms/Math/Math-Lean/.lake/packages/LeanSearchClient/.lake/build/lib/lean:/home/rms/Math/Math-Lean/.lake/packages/plausible/.lake/build/lib/lean:/home/rms/Math/Math-Lean/.lake/packages/mathlib/.lake/build/lib/lean:/home/rms/Math/Fugue/03-formal/workspace/.lake/build/lib/lean /home/rms/.elan/toolchains/leanprover--lean4---v4.35.0-rc4/bin/lean /home/rms/Math/Fugue/03-formal/workspace/Fugue/HSLNSerre.lean -o /home/rms/Math/Fugue/03-formal/workspace/.lake/build/lib/lean/Fugue/HSLNSerre.olean -i /home/rms/Math/Fugue/03-formal/workspace/.lake/build/lib/lean/Fugue/HSLNSerre.ilean -c /home/rms/Math/Fugue/03-formal/workspace/.lake/build/ir/Fugue/HSLNSerre.c --setup /home/rms/Math/Fugue/03-formal/workspace/.lake/build/ir/Fugue/HSLNSerre.setup.json --json
+error: Fugue/HSLNSerre.lean:45:24: Application type mismatch: The argument
+  F
+has type
+  ℍ → ℂ
+of sort `Type` but is expected to have type
+  MDiff ?m.10
+of sort `Prop` in the application
+  serreDerivative_add k F
+error: Fugue/HSLNSerre.lean:50:27: Application type mismatch: The argument
+  F
+has type
+  ℍ → ℂ
+of sort `Type` but is expected to have type
+  MDiff ?m.10
+of sort `Prop` in the application
+  serreDerivative_smul k c F
+error: Fugue/HSLNSerre.lean:60:28: Application type mismatch: The argument
+  F
+has type
+  ℍ → ℂ
+of sort `Type` but is expected to have type
+  MDiff ?m.22
+of sort `Prop` in the application
+  serreDerivative_mul k₁ k₂ F
+error: Fugue/HSLNSerre.lean:72:40: Type mismatch
+  F * G
+has type
+  ℍ → ℂ
+of sort `Type` but is expected to have type
+  MDiff ?m.77
+of sort `Prop`
+error: Fugue/HSLNSerre.lean:70:42: unsolved goals
+k₁ k₂ k₃ : ℂ
+F G H : ℍ → ℂ
+hF : MDiff F
+hG : MDiff G
+hH : MDiff H
+hFG : MDiff (F * G)
+⊢ serreDerivative (k₁ + k₂ + k₃) (F * G * H) =
+    serreDerivative k₁ F * G * H + F * serreDerivative k₂ G * H + F * G * serreDerivative k₃ H
+✖ [9049/9051] Building Fugue.HSLNKTheory (3.2s)
+warning: Fugue/HSLNKTheory.lean: imports `Mathlib` from package `mathlib`, which is designed for use with the module system; consider adding `module` to the start of this file
+trace: .> LEAN_PATH=/home/rms/Math/Math-Lean/.lake/packages/Cli/.lake/build/lib/lean:/home/rms/Math/Math-Lean/.lake/packages/batteries/.lake/build/lib/lean:/home/rms/Math/Math-Lean/.lake/packages/Qq/.lake/build/lib/lean:/home/rms/Math/Math-Lean/.lake/packages/aesop/.lake/build/lib/lean:/home/rms/Math/Math-Lean/.lake/packages/proofwidgets/.lake/build/lib/lean:/home/rms/Math/Math-Lean/.lake/packages/importGraph/.lake/build/lib/lean:/home/rms/Math/Math-Lean/.lake/packages/LeanSearchClient/.lake/build/lib/lean:/home/rms/Math/Math-Lean/.lake/packages/plausible/.lake/build/lib/lean:/home/rms/Math/Math-Lean/.lake/packages/mathlib/.lake/build/lib/lean:/home/rms/Math/Fugue/03-formal/workspace/.lake/build/lib/lean /home/rms/.elan/toolchains/leanprover--lean4---v4.35.0-rc4/bin/lean /home/rms/Math/Fugue/03-formal/workspace/Fugue/HSLNKTheory.lean -o /home/rms/Math/Fugue/03-formal/workspace/.lake/build/lib/lean/Fugue/HSLNKTheory.olean -i /home/rms/Math/Fugue/03-formal/workspace/.lake/build/lib/lean/Fugue/HSLNKTheory.ilean -c /home/rms/Math/Fugue/03-formal/workspace/.lake/build/ir/Fugue/HSLNKTheory.c --setup /home/rms/Math/Fugue/03-formal/workspace/.lake/build/ir/Fugue/HSLNKTheory.setup.json --json
+error: Fugue/HSLNKTheory.lean:64:25: Ambiguous term
+  antidiagonal
+Possible interpretations:
+  HasAntidiagonal.antidiagonal : ?m.12 → Finset (?m.12 × ?m.12)
+  
+  Finset.antidiagonal : Set.IsPWO ?m.16 → Set.IsPWO ?m.17 → ?m.12 → Finset (?m.12 × ?m.12)
+error: Fugue/HSLNKTheory.lean:63:81: unsolved goals
+R : Type u_1
+inst✝ : CommSemiring R
+f g : ArithmeticFunction R
+⊢ ∑ p ∈ HasAntidiagonal.antidiagonal 1, f p.1 * g p.2 = 0
+Some required targets logged failures:
+- Fugue.HslnCat
+- Fugue.HSLNAlgebra
+- Fugue.HSLNBridge
+- Fugue.HSLNFactor
+- Fugue.HSLNSerre
+- Fugue.HSLNKTheory

@@ -1,0 +1,28 @@
+# --- the original June-2026 corpus (not part of this repository; see README) ---
+Math-Lean/
+Python/
+PythonAndVisualizations/
+NumericalTesting/
+KnowledgeBase/
+OAIPart/
+session*.jsonl
+
+# --- the Lean libraries are their own git repositories (see README) ---
+Formal/
+FormalPNT/
+PalomarIngham/
+
+# --- build products, environments, scratch ---
+Fugue/03-formal/workspace/
+Fugue/04-verify/.venv/
+Fugue/.work/
+**/.lake/
+**/__pycache__/
+*.olean
+.DS_Store
+
+# --- own repositories / private material ---
+hsln-archive/
+private/
+pudding/
+fugue-exploration/
